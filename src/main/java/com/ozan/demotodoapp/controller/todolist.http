@@ -1,0 +1,6 @@
+#GET {{host-url}}//todoitems/all
+#
+####
+#GET {{host-url}}//todolists/all
+#
+####
